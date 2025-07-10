@@ -32,8 +32,9 @@ Upon running the program:
 - Modular functions
 - Basic user input/output via console
 
-----------------------------------------------------------------------
-----------------------------------------------------------------------
+
+
+code
 
 #include <stdio.h>
 #include <string.h>
@@ -160,4 +161,5 @@ int main()
 
     return 0;
 }
+
 
